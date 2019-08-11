@@ -8,7 +8,7 @@ namespace RefactoringSamples.MethodLevel.ConditionalComplexity
     class GildedRoseConsoleProgram
     {
         IList<Item> Items;
-        static void Main(string[] args)
+        static void Main2(string[] args)
         {
             System.Console.WriteLine("OMGHAI!");
 

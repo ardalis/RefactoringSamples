@@ -18,6 +18,5 @@ namespace RefactoringSamples.MethodLevel.IntentionObscuring
             return iThsWkd * iThsRte +
                 (int)Math.Round(0.5 * iThsRte * Math.Max(0, iThsWkd - 400));
         }
-
     }
 }
