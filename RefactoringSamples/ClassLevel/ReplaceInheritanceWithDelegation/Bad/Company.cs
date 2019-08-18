@@ -1,8 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.Linq;
 
-namespace InheritanceRefactorings.ReplaceInheritanceWithDelegation.Bad
+namespace RefactoringSamples.ClassLevel.ReplaceInheritanceWithDelegation.Bad
 {
     public class Company : List<Employee>
     {

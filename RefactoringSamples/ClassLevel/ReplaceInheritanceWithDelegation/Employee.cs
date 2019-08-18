@@ -1,7 +1,4 @@
-﻿using System;
-using System.Linq;
-
-namespace InheritanceRefactorings.ReplaceInheritanceWithDelegation
+﻿namespace RefactoringSamples.ClassLevel.ReplaceInheritanceWithDelegation
 {
     public class Employee
     {

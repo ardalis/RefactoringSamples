@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace InheritanceRefactorings.ReplaceInheritanceWithDelegation.Good
+namespace RefactoringSamples.ClassLevel.ReplaceInheritanceWithDelegation.Good
 {
     public class Company
     {
@@ -41,7 +41,7 @@ namespace InheritanceRefactorings.ReplaceInheritanceWithDelegation.Good
             company.Fire(employee);
 
             // should not be allowed
-            //company.Clear();
+            // company.Clear();
 
             int count = company.Count;
         }

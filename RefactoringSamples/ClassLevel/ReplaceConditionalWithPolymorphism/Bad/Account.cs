@@ -2,7 +2,6 @@
 
 namespace RefactoringSamples.ClassLevel.ReplaceConditionalWithPolymorphism.Bad
 {
-    // We begin where we left off from ReplaceTypeCodeWithSubclasses...
     public abstract class Account
     {
         public enum AccountType
